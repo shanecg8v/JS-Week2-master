@@ -34,7 +34,6 @@ const obj = {
 			<div class="card-body">
 			   <h5 class="card-title">${item.title}</h5>
 			   <p class="card-text">${item.content}</p>
-			   ${item.id}${item.origin_price}
 			</div>
             </div>`;
 		});
